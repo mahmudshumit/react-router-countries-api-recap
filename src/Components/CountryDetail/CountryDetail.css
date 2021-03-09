@@ -1,0 +1,21 @@
+.country-detail{
+    display:flex;
+    background:white;
+    padding:10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 20px rgba(51, 51, 51, 0.089);
+
+
+}
+    
+.country-image{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-right: 10px;
+}
+.country-image img{
+    width:150px;
+    height:100px;
+
+}
